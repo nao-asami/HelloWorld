@@ -9,3 +9,6 @@ spring:
       enabled: true
   jpa:
     defer-datasource-initialization: true
+#springdoc:
+#  swagger-ui:
+#    enabled: true
